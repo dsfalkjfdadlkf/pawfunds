@@ -338,7 +338,7 @@ export default function App() {
                     </div>
                     <div className="space-y-1.5">
                       <h3 className="text-base sm:text-lg font-bold text-white tracking-tight">Food &amp; Nutrition</h3>
-                      <p className="text-slate-400 text-xs sm:text-sm leading-relaxed">Daily nutritious meals, kitten formula, and specialized diet.</p>
+                      <p className="text-slate-400 text-xs sm:text-sm leading-relaxed">Daily nutritious meals, kitten formula, and specialized diet</p>
                     </div>
                   </div>
                 </motion.div>
